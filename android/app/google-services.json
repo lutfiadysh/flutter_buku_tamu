@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247834198323",
+    "firebase_url": "https://buku-tamu-f6cf7.firebaseio.com",
+    "project_id": "buku-tamu-f6cf7",
+    "storage_bucket": "buku-tamu-f6cf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247834198323:android:7c27e38448d09ce6defe46",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247834198323-45lc189s2cvqr9lagd2lld501mgu6864.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQk3xOMsVpaCpRgjuLOtexo9olYT_RiL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247834198323-45lc189s2cvqr9lagd2lld501mgu6864.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
